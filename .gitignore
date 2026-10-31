@@ -1,0 +1,9 @@
+# Fichiers compilés par Maven
+target/
+
+# Rapports de plantage Java
+hs_err_pid*.log
+
+# Fichiers propres à NetBeans
+nbproject/private/
+nbactions.xml
